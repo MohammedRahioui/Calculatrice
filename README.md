@@ -1,7 +1,8 @@
 # Calculator  Reproduire l'interface et les événements (clavier, souris) de quelques fonctionnalités élémentaire d'une calculette)
   click clavier est active pour Calculatrice  .
 ## addition                                                                ## produit
-![c1](https://user-images.githubusercontent.com/116549434/205283558-24f985e5-3387-4fbd-bd5b-3c883efaba2c.png)  ![c2](https://user-images.githubusercontent.com/116549434/205283571-a2207dce-d02a-47b8-a532-74a715e986d8.png)
+![c1](https://user-images.githubusercontent.com/116549434/205283558-24f985e5-3387-4fbd-bd5b-3c883efaba2c.png)  
+![c2](https://user-images.githubusercontent.com/116549434/205283571-a2207dce-d02a-47b8-a532-74a715e986d8.png)
 
 
 ## divition
